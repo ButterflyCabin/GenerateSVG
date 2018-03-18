@@ -1,5 +1,5 @@
 import bean.Point;
-import config.SVGBuilder;
+import buidler.SVGBuilder;
 import org.junit.Test;
 
 import java.util.ArrayList;
